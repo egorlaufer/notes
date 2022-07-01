@@ -1,0 +1,4 @@
+- Currently working on: {{query (task now)}}
+- Other tasks: {{query (task later)}}
+- -----------
+- Finished tasks: {{query (task done)}}
